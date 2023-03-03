@@ -5,8 +5,8 @@
 # Hey, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)my name is Mei Kei
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meikei-99&label=Profile%20views&color=0e75b6&style=flat" alt="meikei-99" /> </p>
 <div> 
-    <p>💻 See my portfolio:  <a href="https://meikei.on.fleek.co/" target="_blank">here</a><br/></p>
-    <p>📑 Check out my resume: <a href="https://1drv.ms/b/s!AnA10z7GRVCRj0vuF65mcfAxpuOV?e=r5HvLB" target="_blank">here</a><br/></p>
+    <p>💻 See my portfolio:  <a href="https://meikei-portfolio.vercel.app/" target="_blank">here</a><br/></p>
+    <p>📑 Check out my resume: <a href="https://1drv.ms/b/s!AnA10z7GRVCRj3eL7s8GOJS1vCuC?e=wzZSLo" target="_blank">here</a><br/></p>
     <p>📩 Reach me at meikeichow9999@gmail.com <br/></p>
     <p>🤳 Connect with me on  <a href="https://twitter.com/meikei30" target="_blank">Twitter</a><br/></p>
 </div>
