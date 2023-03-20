@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meikei-99&label=Profile%20views&color=0e75b6&style=flat" alt="meikei-99" /> </p>
 <div> 
     <p>💻 See my portfolio:  <a href="https://meikei-portfolio.vercel.app/" target="_blank">here</a><br/></p>
-    <p>📑 Check out my resume: <a href="https://1drv.ms/b/s!AnA10z7GRVCRj3eL7s8GOJS1vCuC?e=wzZSLo" target="_blank">here</a><br/></p>
+    <p>📑 Check out my resume: <a href="https://1drv.ms/b/s!AnA10z7GRVCRkRDQywteImUTr_qL?e=DsdlDl" target="_blank">here</a><br/></p>
     <p>📩 Reach me at meikeichow9999@gmail.com <br/></p>
     <p>🤳 Connect with me on  <a href="https://twitter.com/meikei30" target="_blank">Twitter</a><br/></p>
 </div>
@@ -19,13 +19,13 @@
 </table>
 
 ## Frontend skills
-CSS3, Ethers.js, Framer, HTML5, JavaScript, Next.js, React, Tailwind, Three.js
+React, Next.js, Ethers.js, Tailwind, Three.js, CSS3, HTML5, JavaScript, Next.js, Framer Motion
 
 ## Backend skills
 Solidity, Hardhat
 
 ## Others
-Chai, Git, GitHub, The Graph
+GraphQL, The Graph, API, Chai, Git, GitHub, Ganache
 
 <div align="center">
 
